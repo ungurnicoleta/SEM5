@@ -7,7 +7,7 @@
           🌎 Cryptography
       </li>
       <li>
-        <a href="https://github.com/ungurnicoleta/MA">
+        <a href="https://github.com/ungurnicoleta/MobileApp">
           🤳  Mobile Apps
       </li>
       <li>
