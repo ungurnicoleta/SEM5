@@ -18,11 +18,6 @@
         <a href="https://github.com/ungurnicoleta/PDP">
           👓  PDP
       </li>
-      <li>
-        <a href="#">
-          👩🏼‍💻 VR
-        </a>
-      </li>
     </ul>
 </ul>
 <br>
